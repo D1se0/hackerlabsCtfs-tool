@@ -26,7 +26,7 @@ COLOR_VERDE_EXITO = Fore.LIGHTGREEN_EX
 
 # Archivo para almacenar máquinas completadas
 ARCHIVO_MAQUINAS_COMPLETADAS = "hackers_hechas.txt"
-URL_BASE = 'http://192.168.5.175/'
+URL_BASE = 'https://d1se0.github.io/hackerlabs/'
 ARCHIVO_ENLACES = "enlaces_descarga.txt"
 
 # Banners personalizados con tonalidades verdes
@@ -41,7 +41,7 @@ BANNERS_PERSONALIZADOS = [
           by @d1se0
     ''',
     f'    Visita nuestra web para más recursos: {URL_BASE} \n',
-    f'    ¡Aprende más en https://hackerlabs.es/guia_del_hacking_page/guia_del_hacking.html! \n'
+    f'    ¡Aprende más en https://d1se0.github.io/hackerlabs/guia_del_hacking_page/guia_del_hacking.html! \n'
 ]
 
 # Niveles de dificultad
