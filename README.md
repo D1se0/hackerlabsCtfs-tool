@@ -14,7 +14,7 @@ To install and configure the tool, follow these steps:
 
 ```bash
 git clone https://github.com/D1se0/hackerlabsCtfs-tool.git
-cd HackerlabsCtfs
+cd hackerlabsCtfs-tool
 ```
 
 ## Prepare the environment and dependencies:
