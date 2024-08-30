@@ -1,5 +1,6 @@
-# ![HackerlabsCtfs Tool](https://github.com/user-attachments/assets/25ee94f6-ac12-4134-b5b0-540600ea28f3) 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/25ee94f6-ac12-4134-b5b0-540600ea28f3" alt="Directorybrute" width="400">
+</p>
 ## Description:
 
 **HackerlabsCtfs Tool** is a command line tool designed to interact with the HackerLabs page. It allows you to extract and display information about CTF (Capture The Flag) machines available on the HackerLabs platform. You can filter machines by difficulty, search by creator, get a random machine, and more.
