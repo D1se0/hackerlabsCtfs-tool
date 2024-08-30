@@ -43,13 +43,13 @@ python3 hackerlabsCtfs
 
 To list machines of a specific difficulty, use the `-d` parameter. The difficulty levels available are:
 
-'Very Easy'
+`Very Easy`
 
-'Easy'
+`Easy`
 
 `Medium`
 
-'Difficult'
+`Difficult`
 
 ### Example to filter machines of "Medium" difficulty:
 
