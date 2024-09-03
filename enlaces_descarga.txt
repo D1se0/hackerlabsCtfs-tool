@@ -20,3 +20,5 @@ nCloud = https://drive.google.com/file/d/1DyoxppWAppz_YZiu9U4tXD1TIH_bB3C1/view
 pressenter = https://drive.google.com/file/d/1jL4MGd_4J2bPyS5ZFuKPNYSbXrhiHVQc/view
 mapache2 = https://drive.google.com/file/d/1bQs7wYBclu7aTWxt5d3SpcY_yL0d9-8b/view
 memesploit = https://drive.google.com/file/d/1LPxgEbkpZlfHuZaiNYytR47db4naX0Ll/view
+jekhack = https://drive.google.com/file/d/1I6YvDFbUpDM4llw_FHSMQCw3zlmHW7Xe/view?usp=sharing
+chmod-4755 = https://drive.google.com/file/d/1NdzO9vNuZNz6z2I7ZdpQU90Ut0NtU6HC/view?usp=sharing
